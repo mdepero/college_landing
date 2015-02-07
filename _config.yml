@@ -1,0 +1,17 @@
+# Site settings
+title: Matt DePero
+header-img: img/home-bg.jpg
+email: deperomd@gmail.com
+description: "A website, portfolio, and blog by Matt DePero."
+baseurl: ""
+url: "http://mattdepero.com"
+twitter_username: mattdepero
+github_username:  
+facebook_username:  MDePero
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

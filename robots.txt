@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /ico/
+Disallow: /mail/
+Disallow: /plex/
