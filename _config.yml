@@ -7,7 +7,7 @@ baseurl: ""
 url: "http://mattdepero.com"
 twitter_username: mattdepero
 github_username:  mdepero
-facebook_username:  MDePero
+facebook_username:  
 
 # Build settings
 markdown: kramdown
