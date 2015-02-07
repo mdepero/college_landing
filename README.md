@@ -1,5 +1,5 @@
 #mattdepero.com
-##A website for hosting my projects and various content
+A website for hosting my projects and various content
 
 View live version at [mattdepero.com](http://mattdepero.com).
 
