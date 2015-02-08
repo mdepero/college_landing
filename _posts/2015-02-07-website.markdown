@@ -1,0 +1,55 @@
+---
+layout:     post
+title:      "Mattdepero.com"
+subtitle:   "How I made this website"
+date:       2015-02-07 12:00:00
+author:     "Matt DePero"
+header-img: "img/post-bg-website.jpg"
+---
+<h2>My Background in Web Development</h2>
+
+<p>I started making websites before I knew how to drive (about sophomore year of high school). In fact, I'm hosting the first website I ever made <a href="/wcc/" target="_BLANK">right here on this site</a> if you want to see how bad it was and where I got my beginning.</p>
+
+<p>I'll be making a post about all of my old websites later, but there are multiple major differences between those websites and this one.</p>
+
+<p>The biggest being that, until this one, all of my sites have been developed by hand. Started by creating a blank index.php or index.html document and working out. This was an incredible way to learn the grueling details of web development, but definitely not practical in the slightest for anything more than a couple of pages.</p>
+
+<p>I learned everything websites like <a href="http://w3schools.com" target="__BLANK">w3schools</a> had to offer, but was never exposed to the bigger picture. I was essentially memorizing my multiplication tables over and over again only to find out I'd never be in math class without a calculator ever again.</p>
+
+<p>That being said, few would say getting a solid foundation before moving on to the advanced stuff isn't a good thing. I having a working knowledge of why something works is just as important as how. However, I'm definitely glad to be moving on.</p>
+
+<h2>Jekyll</h2>
+
+<p>This website is written in a languge called <a href="http://jekyllrb.com/" target="_BLANK">Jekyll</a> and with the Clean Blog theme by <a href="http://startbootstrap.com/template-overviews/clean-blog/" target="_BLANK">Start Bootstrap</a>. The source code for the site is available on my <a href="https://github.com/mdepero/mattdepero.com" target="_BLANK">Github</a> page.</p>
+
+<p>Jekyll is a language that essentially takes almost all of the work out of web development.
+<ol>
+	<li>Make static parts like headers, footers, and navigation panels</li>
+	<li>Make templates that organize different types of pages with variables for everything</li>
+	<li>To make a page, simply say which template to use and write your dyanamic content</li>
+	<li>Let Jekyll take care of putting everything together and done</li>
+</ol>
+</p>
+
+<p>So for this page I'm writing now, I just wrote code that said this is a post, my title is "Mattdepero.com", my subtitle is "How I made this Website", the date, and a link to the fancy background images up there. That was all the work I had to put in to make this post (besides writing it of course). Everything else was compiled automatically by Jekyll. </p>
+
+<h2>How It Works</h2>
+
+<p>The way I use Jekyll is through the terminal. Once installed, all I have to do is say "jekyll 'NAME_OF_SOURCE_CODE' 'NAME_OF_WEBSITE_FOLDER'" and that's it. It takes my source code in the source folder, compiles it, and returns a perfectly formatted website in the website folder, ready for hosting.</p>
+
+<p>The source code I downloaded for <a href="https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll" target="_BLANK">Clean Blog</a> came already set up with an example site pre-built. This is nice because it lets you get a sense of what everything means and then customize your site from there. The only thing you have to make sure you do is change your "baseurl" to say baseurl: "" in the default _config.yml file.</p>
+
+<p>Customizing your site from there is easy. The _Includes folder has your static content you can edit such as the header on every page, your navigation bar, etc. _Layouts lets you customize the various templates you can use for your types of pages. And finally _Posts lets you create as many .markdown files as you like to populate your site with posts.</p>
+
+<p>Any .html files in the root of your folder get treated in a different way. These pages will automatically populate your navigation bar and let your create things like "about me" and "contact" that will show on every page. You can also create your own, or just edit your nav.html file like I did to manually configure your nav bar.</p>
+
+<p>It really doens't get too much easier than that. Most everything about Jekyll is easy to pick up on just by viewing a couple of the files and having a semi-working knowledge of html. I hope this was helpful to anyone reading, congradulations on getting this far, and thanks for viewing!</p>
+
+
+<!--Template Stuff
+<blockquote></blockquote>
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+</a>
+<span class="caption text-muted">Picture Caption</span>
+-->

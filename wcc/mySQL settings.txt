@@ -1,0 +1,7 @@
+username: main
+pass: admin
+
+database name: main
+tables: orders
+
+table orders columns: orderID (attributes:unsigned, index:index, auto increment), firstname (varchar<50), lastname(varchar<70), address(varchar<250), city(varchar<70), state(varchar<40), zipcode(varchar<5), phone(varchar<10), email(varchar<70), cost(varchar<50), order(text), orderstatus(text)
