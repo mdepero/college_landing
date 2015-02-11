@@ -7,11 +7,17 @@ author:     "Matt DePero"
 header-img: "img/post-bg-acm.jpg"
 ---
 
+<h2>What is ACM?</h2>
+
 <p>The real <a href="http://www.acm.org/" target="_BLANK">ACM</a> is a society for people in the computing field (as well as being very good at sending you promotional emails twice a day). At Miami, it is a organization for students with an interest in programming and computer science.</p>
 
 <p>Fall of 2014 the club decided to have a programming competition aptly named the "Do Something Awesome" competition. This project was what our team submitted to go on to win the competition.</p>
 
+<h2>The Project</h2>
+
 <p>At the core of the project was the ability to take 3D coordinates (x, y, and z) and convert them into where print on a screen to render a 3D image when viewed through <a href="https://www.google.com/get/cardboard/" target="_BLANK">some fancy but cheap glasses</a>. The Google Cardboard glasses allowed the left half and right half of a phone screen to be viewed by the two eyes separately, thus creating a 3D image.</p>
+
+<h2>How It Works</h2>
 
 <p>This was accomplished by creating a very simple model of how our eyes work in 3D and then converting it into code. See <a href="https://docs.google.com/presentation/d/1-eZwpfNrOwxYuSrhjqyoZNcgEETHvpG1tCiIMJP06xs/edit?usp=sharing" target="_BLANK">slides on how the model was built</a> to view the different parts of the model and how it was made.</p>
 
@@ -20,7 +26,7 @@ header-img: "img/post-bg-acm.jpg"
 	<span class="caption text-muted">The model used to convert 3D to 2D (just the x plane)</span>
 </p>
 
-<p>The demo we created to show this model in action can be seen below. It renders three objects that rotate around each other.</p>
+<p>The demo we created to show this model in action can be seen below. It renders three objects that rotate around each other.  You can also <a href="https://github.com/mdepero/ACM-Project/blob/master/index.html" target="_BLANK">view the source code</a> to see the html and javascript behind the demo.</p>
 
 <p>The important part to remember is that the x, y, and z of the objects are moving in circles in a 3D plane and what you see on the screen is rendered from those x, y, and z points.
 </p>

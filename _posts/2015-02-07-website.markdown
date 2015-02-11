@@ -16,7 +16,7 @@ header-img: "img/post-bg-website.jpg"
 
 <p>I learned everything websites like <a href="http://w3schools.com" target="__BLANK">w3schools</a> had to offer, but was never exposed to the bigger picture. I was essentially memorizing my multiplication tables over and over again only to find out I'd never be in math class without a calculator ever again.</p>
 
-<p>That being said, few would say getting a solid foundation before moving on to the advanced stuff isn't a good thing. I having a working knowledge of why something works is just as important as how. However, I'm definitely glad to be moving on.</p>
+<p>Few would say getting a solid foundation before moving on to the advanced stuff isn't a good thing. Having a working knowledge of why something works is just as important as how. However, I'm definitely glad to be moving on.</p>
 
 <h2>Jekyll</h2>
 
