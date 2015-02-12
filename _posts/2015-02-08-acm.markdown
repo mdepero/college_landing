@@ -26,12 +26,12 @@ header-img: "img/post-bg-acm.jpg"
 	<span class="caption text-muted">The model used to convert 3D to 2D (just the x plane)</span>
 </p>
 
-<p>The demo we created to show this model in action can be seen below. It renders three objects that rotate around each other.  You can also <a href="https://github.com/mdepero/ACM-Project/blob/master/index.html" target="_BLANK">view the source code</a> to see the html and javascript behind the demo.</p>
+<p>The demo we created to show this model in action can be seen below. It renders three objects that rotate around each other.  You can also <a href="https://github.com/mdepero/ACM-Project/blob/gh-pages/index.html" target="_BLANK">view the source code</a> to see the html and javascript behind the demo.</p>
 
 <p>The important part to remember is that the x, y, and z of the objects are moving in circles in a 3D plane and what you see on the screen is rendered from those x, y, and z points.
 </p>
 
-<p class="text-center"><a href="/acm/">View Demo</a></p>
+<p class="text-center"><a href="/ACM-Project/">View Demo</a></p>
 
 <!--Template Stuff
 <blockquote></blockquote>
