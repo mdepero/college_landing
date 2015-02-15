@@ -2,7 +2,7 @@
 
 A website for hosting my projects and various content
 
-View live version at [mattdepero.com](http://mattdepero.com).
+View live version at [mattdepero.com](http://mattdepero.com) hosted by GitHub Pages using this source code.
 
 ## About Site
 
