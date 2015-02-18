@@ -8,3 +8,4 @@ Disallow: /ico/
 Disallow: /mail/
 Disallow: /plex/
 Disallow: /wcc/
+Disallow: /thankyou/
