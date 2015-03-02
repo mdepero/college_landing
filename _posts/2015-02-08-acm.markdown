@@ -31,7 +31,7 @@ header-img: "img/post-bg-acm.jpg"
 <p>The important part to remember is that the x, y, and z of the objects are moving in circles in a 3D plane and what you see on the screen is rendered from those x, y, and z points.
 </p>
 
-<p class="text-center"><a href="/ACM-Project/">View Demo</a></p>
+<p class="text-center"><a href="{{ site.baseurl }}/ACM-Project/">View Demo</a></p>
 
 <!--Template Stuff
 <blockquote></blockquote>

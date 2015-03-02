@@ -7,7 +7,20 @@ author:     "Matt DePero"
 header-img: "img/post-bg-websites.jpg"
 ---
 
-Test
+<h2>My Introduction to Web Design</h2>
+
+<p>My first introduction to programming was sophemore year of high school when I took a "web design" class to fulfill my technology requirement. I say "web design" in quotes not because it was a bad class, but beause it was less about "design" and more about "let's make HTML as simple to the average high school teenager as humanly possible." Nevertheless, I credit all my interest to programming today to converting &lt;font color="blue"&gt;Blue Text!&lt;/font&gt; into blue text on the screen (this is not the right way to make text blue).
+</p>
+
+<!--Still need to fix html conversion
+<h2><a href="{{ site.baseurl }}/wcc" target="_BLANK">My First Website</a></h2>
+<p>So after learning deprecated HTML and skimming w3schools one time through I was clearly a fully certified programmer...
+</p>-->
+
+<h2><a href="http://elpatroncuisine.com" target="_BLANK">El Patron Mexican Cuisine</a></h2>
+<p>My first official website was for a mexican resteraunt that had just opened. I knew the owner's son from my high school soccer team and he had found out that I made websites. One look at the mobile version of this site shows just how early in my knowledge of web programming I was, however I made it work and I've yet to find a device that my makeshift mobile site doesn't display properly on.
+</p>
+
 
 <!--Template Stuff
 <blockquote></blockquote>
