@@ -32,7 +32,7 @@ header-img: "img/post-bg-websites.jpg"
 </p>
 
 <h2><a href="http://www.battlezonefitness.com/" target="_BLANK">BattleZone Fitness</a></h2>
-<p>This is a fairly simple site I made for a a fitness gym. I was contacted by a graduate of my high school who is now one of the coaches at the gym. It is a step up aesthetically from the layouts like I used for speech and debate above, but it is still well before I got into the more modern design style that I now use for websites. Althought this site was not as big in terms of project size, it still gave me good early experience in attempting to focus on design and layout rather than large background programming like exists on speech and debate or Warner McIlvaine Dentistry.
+<p>This is a fairly simple site I made for a a fitness gym in my area. I was contacted by a graduate of my high school who is now one of the wrestling coaches at the gym. It is a step up aesthetically from the layouts like I used for speech and debate above, but it is still well before I got into the more modern design style I now use for websites. Althought this site was not as big in terms of project size, it still gave me good, early experience in attempting to focus on design and layout rather than large background programming that exists on speech and debate or Warner McIlvaine Dentistry.
 </p>
 
 
