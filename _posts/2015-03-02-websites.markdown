@@ -19,23 +19,23 @@ header-img: "img/post-bg-websites.jpg"
 <p>So after learning deprecated HTML and skimming w3schools one time through I was clearly a fully certified programmer...
 </p>-->
 
-<h2><a href="http://wadsworthspeechanddebate.com" target="_BLANK">Wadsworth Speech and Debate</a></h2>
+<h2><u><a href="http://wadsworthspeechanddebate.com" target="_BLANK">Wadsworth Speech and Debate</a></u></h2>
 <p>By far the largest website I made in high school. I competed in public forum debate and was a member of the officer staff of the team for 3 of my 4 years. One problem we noticed was how difficult organization on the team was. The site allows the team to present the team schedule, awards, pictures, announcements, etc while also allowing students to log in and manage practice times with coaches and even contact the coaches directly.
 </p>
 
-<h2><a href="http://elpatroncuisine.com" target="_BLANK">El Patron Mexican Cuisine</a></h2>
+<h2><u><a href="http://elpatroncuisine.com" target="_BLANK">El Patron Mexican Cuisine</a></u></h2>
 <p>My first official website was for a mexican resteraunt that had just opened. I knew the owner's son from my high school soccer team and he had found out that I made websites. One look at the mobile version of this site shows just how early in my knowledge of web programming I was, however I made it work and I've yet to find a device that my makeshift mobile site doesn't display properly on.
 </p>
 
-<h2><a href="http://www.warnermcilvainedentistry.com/" target="_BLANK">Warner McIlvaine Dentistry</a></h2>
+<h2><u><a href="http://www.warnermcilvainedentistry.com/" target="_BLANK">Warner McIlvaine Dentistry</a></u></h2>
 <p>Another large website I worked on. The most time consuming parts of this site were the <a href="http://www.warnermcilvainedentistry.com/forms.php" target="_BLANK">Forms and Appointments</a> pages. The Health History and Appointment Request forms were all hand written in HTML with PHP to recieve them, and the javascripts that "validates" them (although I now know javascript validation is not the most secure way to validate a form) were all very extensive but provided a lot of good practice.
 </p>
 
-<h2><a href="http://ohiohomeinspections.net/" target="_BLANK">New Age Home Detectives</a></h2>
+<h2><u><a href="http://ohiohomeinspections.net/" target="_BLANK">New Age Home Detectives</a></u></h2>
 <p>Using the layout from my speech and debate website, NAHD was a project focused almost entirely on backend. Although only admins can log in, once logged in, users can complete home inspections forms that save as you go. Once the entire inspection is complete, the admin can send the client a log in password for them to get access to their inspection report online and download a pdf rendered from the inspection data. This project especially gave me experience on working with large, often complicated data inputs and handling them with PHP to create organized databases to be called later to render a pdf document.
 </p>
 
-<h2><a href="http://www.battlezonefitness.com/" target="_BLANK">BattleZone Fitness</a></h2>
+<h2><u><a href="http://www.battlezonefitness.com/" target="_BLANK">BattleZone Fitness</a></u>s</h2>
 <p>This is a fairly simple site I made for a a fitness gym in my area. I was contacted by a graduate of my high school who is now one of the wrestling coaches at the gym. It is a step up aesthetically from the layouts like I used for speech and debate above, but it is still well before I got into the more modern design style I now use for websites. Althought this site was not as big in terms of project size, it still gave me good, early experience in attempting to focus on design and layout rather than large background programming that exists on speech and debate or Warner McIlvaine Dentistry.
 </p>
 
