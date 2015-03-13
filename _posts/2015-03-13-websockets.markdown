@@ -34,7 +34,7 @@ header-img: "img/post-bg-websockets.jpg"
 
 
 <h2>Live Demo</h2>
-<p class="text-center"><a href="{{ site.baseurl }}/websockets/">Open on your computer</a> | <a href="{{ site.baseurl }}/websockets/controller">Open on your phone</a></p>
+<p class="text-center"><a href="{{ site.baseurl }}/websockets/" target="_BLANK">Open on your computer</a> | <a href="{{ site.baseurl }}/websockets/controller" target="_BLANK">Open on your phone</a></p>
 
 <!--Template Stuff
 <blockquote></blockquote>
