@@ -23,7 +23,7 @@ header-img: "img/post-bg-acm.jpg"
 
 <p>
 	<img src="{{ site.baseurl }}/img/post-misc-acm-model.png" alt="Model">
-	<span class="caption text-muted">The model used to convert 3D to 2D (just the x plane)</span>
+	<span class="caption text-muted">The model I created to convert 3D to 2D (just the x plane)</span>
 </p>
 
 <p>The demo we created to show this model in action can be seen below. It renders three objects that rotate around each other.  You can also <a href="https://github.com/mdepero/ACM-Project/blob/gh-pages/index.html" target="_BLANK">view the source code</a> to see the html and javascript behind the demo.</p>
