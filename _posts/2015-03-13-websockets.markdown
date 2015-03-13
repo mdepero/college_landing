@@ -23,7 +23,7 @@ header-img: "img/post-bg-websockets.jpg"
 
 <h2>How it Works</h2>
 <h3>The Server</h3>
-<p>At the core of a websocket application is a central server that receives messages and returns messages. I am using a simple <a href="https://github.com/opiate/SimpleWebSocketServer" target="_BLANK">python based server</a> that is running on a computer at home. I also wrote the game engine in python which also runs on the server. When the server is pinged for data, it simply returns a parsable string that creates an array of x's and y's for each game object currently connected.
+<p>At the core of a websocket application is a central server that receives messages and returns messages. I am using a simple <a href="https://github.com/opiate/SimpleWebSocketServer" target="_BLANK">python based server</a> that is running on a computer at home. I also wrote the game engine in python which also runs on the server. When the server is pinged for data, it simply returns a parsable string that creates an array of x's and y's of each game object currently connected.
 </p>
 <h3>The Screen</h3>
 <p>The homepage of the project pulls all the data collected by the server and displays all the objects in real time. All objects are displayed relative to the size of your screen, so the relative position of all the objects are the same regardless of resolution or screen dimensions.
