@@ -19,6 +19,7 @@ header-img: "img/post-bg-websockets.jpg"
 		<li>Use a smartphone as a controller utilizing the accelerometer</li>
 		<li>Create an MMO like engine that can have an unlimited number of controllers running at once</li>
 	</ol>
+	At the moment, all the demo does is create a single square on the "screen" for every phone that connects to the server and each person connected can then steer the square as it moves around.
 </p>
 
 <h2>How it Works</h2>
