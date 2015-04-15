@@ -8,7 +8,7 @@ header-img: "img/post-bg-website.jpg"
 ---
 <h2>My Background in Web Development</h2>
 
-<p>I started making websites before I knew how to drive (about sophomore year of high school). In fact, I'm hosting the first website I ever made <a href="/wcc/" target="_BLANK">right here on this site</a> if you want to see how bad it was and where I got my beginning.</p>
+<p>I started making websites before I knew how to drive (about sophomore year of high school). In fact, I'm hosting the first website I ever made <!--<a href="/wcc/" target="_BLANK">right here on this site</a>--><del><ins>right here on this site</ins></del> (not yet working with new hosting) if you want to see how bad it was and where I got my beginning.</p>
 
 <p>I'll be making a post about all of my old websites later, but there are multiple major differences between those websites and this one.</p>
 
