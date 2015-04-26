@@ -34,6 +34,19 @@
 
  }
 
+  @media only screen and (max-width: 768px) {
+
+ 	.profile-picture{
+ 		width: 100px;
+ 		height: 100px;
+
+ 		-webkit-border-radius: 50px;
+		-moz-border-radius: 50px;
+		border-radius: 50px;
+ 	}
+
+ }
+
  .scroll-container{
  	position: absolute;
  	bottom: 0px;
@@ -64,15 +77,6 @@
  	width: 60px;
  }
 
- @media only screen and (max-width: 768px) {
-
- 	.profile-picture{
- 		width: 100px;
- 		height: 100px;
-
- 		-webkit-border-radius: 50px;
-		-moz-border-radius: 50px;
-		border-radius: 50px;
- 	}
-
+ .resume-item table tr td:first-child{
+ 	font-weight: bold;
  }
