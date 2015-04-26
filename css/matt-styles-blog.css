@@ -116,6 +116,7 @@
 
  .block{
  	display: inline-block;
+ 	font-size: .8em;
  }
  .block:hover{
  	background-color: white;
