@@ -5,7 +5,7 @@
 
 setInterval(function(){
     $(".resume-scroll img")
-    .animate({top:"-10px"}, 200).animate({top:"-4px"}, 200) // first jump
-    .animate({top:"-7px"}, 100).animate({top:"-4px"}, 100) // second jump
-    .animate({top:"-6px"}, 100).animate({top:"-4px"}, 100); // the last jump
+    .animate({margin-bottom:"10px"}, 200).animate({margin-bottom:"0px"}, 200) // first
+     .animate({margin-bottom:"6px"}, 200).animate({margin-bottom:"0px"}, 200) // second
+      .animate({margin-bottom:"4px"}, 200).animate({margin-bottom:"0px"}, 200) // third
 },600);
