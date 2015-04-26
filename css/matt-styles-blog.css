@@ -127,6 +127,6 @@
  }
 
  .resume-hr{
- 	border-color:black;
- 	margin-top: 25px;
+ 	border-color:black !important;
+ 	margin-top: 25px !important;
  }
