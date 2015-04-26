@@ -42,9 +42,9 @@
 
  @-webkit-keyframes bounce {
   0%       { bottom:5px; }
-  5%, 15% { bottom:15px; }
-  10%      { bottom:20px; }
-  20%     { bottom:0px; }
+  10%, 30% { bottom:15px; }
+  20%      { bottom:20px; }
+  40%     { bottom:0px; }
 }
 
  .resume-scroll{
