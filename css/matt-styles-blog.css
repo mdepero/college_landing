@@ -14,6 +14,8 @@
  	position: relative;
 
  	padding-bottom: 100px;
+
+ 	margin-bottom: 40px;
  }
 
  .profile-picture{
@@ -83,4 +85,8 @@
 
  .resume-item table tr td:first-child{
  	font-weight: bold;
+ }
+
+ .resume-content{
+ 	border-left: 1px solid black;
  }
