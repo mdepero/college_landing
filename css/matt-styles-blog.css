@@ -77,6 +77,10 @@
  	width: 60px;
  }
 
+ .resume-item{
+ 	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ }
+
  .resume-item table tr td:first-child{
  	font-weight: bold;
  }
