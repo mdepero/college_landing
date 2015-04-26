@@ -119,6 +119,9 @@
 
  }
 
+ .block{
+ 	display: inline-block;
+ }
 
  .resume-item h2{
  	text-align: center;
