@@ -83,6 +83,10 @@
  	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
  }
 
+ .resume-item table{
+ 	border: none !important;
+ }
+
  .resume-item table td{
  	border-top: none !important;
  	padding: 4px 8px !important;
