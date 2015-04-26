@@ -79,15 +79,15 @@
  }
 
  .resume-item{
- 	margin-top: 40px;
+ 	margin-top: 60px;
  	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ }
+
+ .resume-item table td{
+ 	border: none;
+ 	padding: 4px 8px;
  }
 
  .resume-item table tr td:first-child{
  	font-weight: bold;
- }
-
- .resume-item div:first-child{
-
- 	border-right: 1px solid #ccc;
  }
