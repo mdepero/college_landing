@@ -94,3 +94,26 @@
  .resume-item table tr td:first-child{
  	font-weight: bold;
  }
+
+ .icon-image{
+ 	width: 100px;
+ 	height: 100px;
+ 	background-repeat: no-repeat;
+ 	background-position: center;
+ 	background-size: cover;
+
+ 	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+
+
+ }
+
+
+ .resume-title{
+ 	text-align: center;
+ }
+
+ .resume-title h2{
+ 	text-align: left;
+ }

@@ -4,16 +4,6 @@
  */
 
 
-options = $.extend({
-    scrollwheel: false,
-    navigationControl: false,
-    mapTypeControl: false,
-    scaleControl: false,
-    draggable: false,
-    mapTypeId: google.maps.MapTypeId.ROADMAP
-}, options);
-
-
 
 /*
  * Smooth Scroll provided by css-tricks: https://css-tricks.com/snippets/jquery/smooth-scrolling/
