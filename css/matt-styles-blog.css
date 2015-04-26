@@ -120,3 +120,7 @@
  .resume-item h2{
  	text-align: center;
  }
+
+ .resume-content .col-sm-4{
+ 	font-weight: bold;
+ }
