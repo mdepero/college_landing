@@ -5,7 +5,7 @@
 
 setInterval(function(){
     $(".resume-scroll img")
-    .animate({margin-bottom:"10px"}, 200).animate({margin-bottom:"0px"}, 200) // first
-     .animate({margin-bottom:"6px"}, 200).animate({margin-bottom:"0px"}, 200) // second
-      .animate({margin-bottom:"4px"}, 200).animate({margin-bottom:"0px"}, 200) // third
+    .animate({MarginBottom:"10px"}, 200).animate({MarginBottom:"0px"}, 200) // first
+     .animate({MarginBottom:"6px"}, 200).animate({MarginBottom:"0px"}, 200) // second
+      .animate({MarginBottom:"4px"}, 200).animate({MarginBottom:"0px"}, 200) // third
 },600);
