@@ -106,14 +106,13 @@
 	-moz-border-radius: 50px;
 	border-radius: 50px;
 
+	margin-left: auto;
+	margin-right: auto;
+
 
  }
 
 
  .resume-title{
  	text-align: center;
- }
-
- .resume-title h2{
- 	text-align: left;
  }
