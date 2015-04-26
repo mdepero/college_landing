@@ -91,11 +91,6 @@
  	border-top: none !important;
  	padding: 4px 8px !important;
  }
- .resume-item div:hover{
- 	background-color: white;
-
- 	border-radius: 10px;
- }
 
  .resume-item table tr td:first-child{
  	font-weight: bold;
@@ -121,6 +116,9 @@
 
  .block{
  	display: inline-block;
+ }
+ .block:hover{
+ 	background-color: white;
  }
 
  .resume-item h2{
