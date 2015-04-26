@@ -59,3 +59,16 @@
 
  	width: 60px;
  }
+
+ @media only screen and (min-width: 768px) {
+
+ 	.profile-picture{
+ 		width: 100px;
+ 		height: 100px;
+
+ 		-webkit-border-radius: 50px;
+		-moz-border-radius: 50px;
+		border-radius: 50px;
+ 	}
+
+ }

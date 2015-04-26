@@ -1,3 +1,0 @@
----
-heading: "Personal Information"
----
