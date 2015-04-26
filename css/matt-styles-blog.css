@@ -83,7 +83,7 @@
  	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
  }
 
- .resume-item table{
+ .resume-item .table-responsive{
  	border: none !important;
  }
 
