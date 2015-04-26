@@ -15,7 +15,6 @@
 
  	padding-bottom: 100px;
 
- 	margin-bottom: 40px;
  }
 
  .profile-picture{
@@ -80,6 +79,7 @@
  }
 
  .resume-item{
+ 	margin-top: 40px;
  	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
  }
 
@@ -87,6 +87,7 @@
  	font-weight: bold;
  }
 
- .resume-content{
- 	border-left: 1px solid black;
+ .resume-item div:first-child{
+
+ 	border-right: 1px solid #ccc;
  }
