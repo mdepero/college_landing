@@ -12,4 +12,4 @@ $(document).ready(function(){
 	      .animate({MarginBottom:"4px"}, 200).animate({MarginBottom:"0px"}, 200) // third
 	},1500);
 
-)};
+});
