@@ -36,3 +36,9 @@
  	width: 100%;
  	text-align: center;
  }
+
+ .resume-scroll{
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 50px;
+ }
