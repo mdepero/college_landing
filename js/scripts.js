@@ -6,13 +6,13 @@
 
 
 // To be scroll button animate
-$(document).ready(function(){
-	setInterval(function(){
-    	$(".scroll-container").animate({
-    		bottom: 100px;
-    	});
-	}, 1000);
-});
+// $(document).ready(function(){
+// 	setInterval(function(){
+//     	$(".scroll-container").animate({
+//     		bottom: 100px;
+//     	});
+// 	}, 1000);
+// });
 
 
 
