@@ -113,6 +113,7 @@
 	margin-left: auto;
 	margin-right: auto;
 
+	margin-bottom: 30px;
 
  }
 
@@ -123,4 +124,9 @@
 
  .resume-content .col-sm-4{
  	font-weight: bold;
+ }
+
+ .resume-hr{
+ 	border-color:black;
+ 	margin-top: 25px;
  }
