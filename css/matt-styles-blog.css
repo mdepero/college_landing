@@ -12,3 +12,15 @@
  	display: table-cell;
  	vertical-align: middle;
  }
+
+ .profile-picture{
+ 	width: 100px;
+ 	height: 100px;
+ 	background-repeat: no-repeat;
+ 	background-position: center;
+
+ 	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+ 	
+ }

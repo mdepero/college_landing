@@ -11,7 +11,7 @@ layout: default
                     <span class="subheading">{% if page.intro %}{{ page.intro }}{% endif %}</span>
                     <h1>{% if page.full-name %}{{ page.full-name }}{% endif %}</h1>
                     <hr class="small">
-                    
+                    <img class="profile-picture" style="background-image: url('{{ site.baseurl }}/{% if page.profile-img %}{{ page.profile-img }}{% endif %}')"
                 </div>
             </div>
         </div>
