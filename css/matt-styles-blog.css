@@ -42,8 +42,7 @@
  	margin-left: auto;
  	margin-right: auto;
 
+ 	cursor: pointer !important;
+
  	width: 60px;
- }
- .resume-scroll{
- 	cursor: pointer;
  }
