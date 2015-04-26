@@ -5,17 +5,6 @@
 
 
 
-// To be scroll button animate
-// $(document).ready(function(){
-// 	setInterval(function(){
-//     	$(".scroll-container").animate({
-//     		bottom: 100px;
-//     	});
-// 	}, 1000);
-// });
-
-
-
 
 /*
  * Smooth Scroll provided by css-tricks: https://css-tricks.com/snippets/jquery/smooth-scrolling/
