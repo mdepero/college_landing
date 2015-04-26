@@ -12,6 +12,8 @@
  	display: table-cell;
  	vertical-align: middle;
  	position: relative;
+
+ 	padding-bottom: 100px;
  }
 
  .profile-picture{
@@ -28,7 +30,7 @@
 	margin-left: auto;
 	margin-right: auto;
 
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 
  }
 
