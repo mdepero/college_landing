@@ -24,6 +24,7 @@
 	-moz-border-radius: 50px;
 	border-radius: 50px;
 
-	margin-left: auto;
+	margin-left: 50%;
+	padding-left: -50%;
 
  }
