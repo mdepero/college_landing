@@ -84,8 +84,8 @@
  }
 
  .resume-item table td{
- 	border: none;
- 	padding: 4px 8px;
+ 	border-top: none !important;
+ 	padding: 4px 8px !important;
  }
 
  .resume-item table tr td:first-child{
