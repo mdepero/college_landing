@@ -87,6 +87,9 @@
  	border-top: none !important;
  	padding: 4px 8px !important;
  }
+ .resume-item tr:hover{
+ 	background-color: white;
+ }
 
  .resume-item table tr td:first-child{
  	font-weight: bold;
