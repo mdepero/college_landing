@@ -82,8 +82,8 @@
  	margin-top: 60px;
  	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
- 	min-height: 100vh;
- 	min-width: 100vw;
+ 	height: 100vh;
+
  	display: table-cell;
  	vertical-align: middle;
  	position: relative;
