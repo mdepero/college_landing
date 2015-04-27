@@ -81,20 +81,17 @@
  .resume-item{
  	margin-top: 60px;
  	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+ 	min-height: 100vh;
+ 	min-width: 100vw;
+ 	display: table-cell;
+ 	vertical-align: middle;
+ 	position: relative;
+
+ 	padding-top: 40px;
+ 	padding-bottom: 40px;
  }
 
- .resume-item .table-responsive{
- 	border: none !important;
- }
-
- .resume-item table td{
- 	border-top: none !important;
- 	padding: 4px 8px !important;
- }
-
- .resume-item table tr td:first-child{
- 	font-weight: bold;
- }
 
  .icon-image{
  	width: 100px;
