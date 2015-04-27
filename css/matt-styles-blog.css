@@ -13,10 +13,6 @@
  	vertical-align: middle;
  	position: relative;
 
- 	background-repeat: no-repeat;
- 	background-position: center;
- 	background-size: cover;
-
  	padding-bottom: 100px;
 
  }
@@ -86,14 +82,14 @@
  	margin-top: 60px;
  	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
- 	height: 100vh;
+ 	/*height: 100vh;
 
  	display: table-cell;
  	vertical-align: middle;
  	position: relative;
 
  	padding-top: 40px;
- 	padding-bottom: 40px;
+ 	padding-bottom: 40px;*/
  }
 
 
