@@ -32,7 +32,7 @@ header-img: "img/post-bg-websites.jpg"
 </p>
 
 <h2><a href="http://ohiohomeinspections.net/" target="_BLANK"><u>New Age Home Detectives</u></a></h2>
-<p>Using the layout from my speech and debate website, NAHD was a project focused almost entirely on backend. Although only admins can log in, once logged in, users can complete home inspections forms that save as you go. Once the entire inspection is complete, the admin can send the client a log in password for them to get access to their inspection report online and download a pdf rendered from the inspection data. This project especially gave me experience on working with large, often complicated data inputs and handling them with PHP to create organized databases to be called later to render a pdf document.
+<p>Using the layout from my speech and debate website, NAHD was a project focused almost entirely on backend. Although only admins and clients can log in, once logged in, users can complete home inspections forms that save as you go. Once the entire inspection is complete, the admin can send the client a log in password for them to get access to their inspection report online and download a pdf rendered from the inspection data. This project especially gave me experience on working with large, often complicated data inputs and handling them with PHP to create organized databases to be called later to render a pdf document.
 </p>
 
 <h2><a href="http://www.battlezonefitness.com/" target="_BLANK"><u>BattleZone Fitness</u></a></h2>
