@@ -22,7 +22,7 @@ header-img: "img/post-bg-website.jpg"
 
 <p>This website is written in a languge called <a href="http://jekyllrb.com/" target="_BLANK">Jekyll</a> and with the Clean Blog theme by <a href="http://startbootstrap.com/template-overviews/clean-blog/" target="_BLANK">Start Bootstrap</a>. The source code for the site is available on my <a href="https://github.com/mdepero/mattdepero.com" target="_BLANK">Github</a> page.</p>
 
-<p>Jekyll is a language that essentially takes almost all of the work out of web development.
+<p>Jekyll is a language that allows you to make custom websites by hand but without all the repititon.
 <ol>
 	<li>Make static parts like headers, footers, and navigation panels</li>
 	<li>Make templates that organize different types of pages with variables for everything</li>
