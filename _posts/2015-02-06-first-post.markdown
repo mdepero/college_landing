@@ -9,7 +9,7 @@ header-img: "img/post-bg-01.jpg"
 
 <p>The clock has just rolled over into the 6th of February and I figure it's as good a time as ever to create the first post of this page. This is more a test post than anything, but the site needs a little more of a christening than some keyboard bashing followed by a quick delete.</p>
 
-<p>I, however, am not a creative person when it comes to stuff like this, and as such have nothing to fill this ceremonious filler page with. Instead, here's a html5 demo I did for my CSE102 class to get the ball rolling: </p>
+<p>I, however, am not a very creative person when it comes to stuff like this, and as such have nothing to fill this ceremonious filler page with. Instead, here's a html5 demo I did for my CSE102 class to...get the ball rolling. </p>
 <script type="text/javascript">
 	/*Canvas Control Javascript
 	 *
