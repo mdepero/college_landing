@@ -22,7 +22,7 @@ header-img: "img/post-bg-website.jpg"
 
 <p>This website is written in a languge called <a href="http://jekyllrb.com/" target="_BLANK">Jekyll</a> and with the Clean Blog theme by <a href="http://startbootstrap.com/template-overviews/clean-blog/" target="_BLANK">Start Bootstrap</a>. The source code for the site is available on my <a href="https://github.com/mdepero/mattdepero.com" target="_BLANK">Github</a> page.</p>
 
-<p>Jekyll is a language that allows you to make custom websites by hand but without all the repititon.
+<p>Jekyll is a language that allows you to make custom websites by hand but without all the repetition.
 <ol>
 	<li>Make static parts like headers, footers, and navigation panels</li>
 	<li>Make templates that organize different types of pages with variables for everything</li>
@@ -31,13 +31,13 @@ header-img: "img/post-bg-website.jpg"
 </ol>
 </p>
 
-<p>So for this page I'm writing now, I just wrote code that said this is a post, my title is "Mattdepero.com", my subtitle is "How I made this Website", the date, and a link to the fancy background images up there. That was all the work I had to put in to make this post (besides writing it of course). Everything else was compiled automatically by Jekyll. </p>
+<p>So for this page I'm writing now, I just wrote code that said this is a post, my title is "Mattdepero.com", my subtitle is "How I made this Website", the date, and a link to the background image. That was all the work I had to put in to make this post (besides writing it of course). Everything else was compiled automatically by Jekyll. </p>
 
 <h2>How It Works</h2>
 
 <p>The way I use Jekyll is through the terminal. Once installed, all I have to do is say "jekyll 'NAME_OF_SOURCE_CODE' 'NAME_OF_WEBSITE_FOLDER'" and that's it. It takes my source code in the source folder, compiles it, and returns a perfectly formatted website in the website folder, ready for hosting.</p>
 
-<p>The source code I downloaded for <a href="https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll" target="_BLANK">Clean Blog</a> came already set up with an example site pre-built. This is nice because it lets you get a sense of what everything means and then customize your site from there. The only thing you have to make sure you do is change your "baseurl" to say baseurl: "" in the default _config.yml file.</p>
+<p>The source code I downloaded for <a href="https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll" target="_BLANK">Clean Blog</a> came already set up with an example site pre-built. This is nice because it lets you get a sense of what everything means and then customize your site from there. The only thing you have to make sure you do is change your "baseurl" to say baseurl: "" in the default _config.yml file. (Unless your site is hosted within a folder of a bigger site, in which case your baseurl links to that folder)</p>
 
 <p>Customizing your site from there is easy. The _Includes folder has your static content you can edit such as the header on every page, your navigation bar, etc. _Layouts lets you customize the various templates you can use for your types of pages. And finally _Posts lets you create as many .markdown files as you like to populate your site with posts.</p>
 
