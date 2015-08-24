@@ -1,5 +1,6 @@
 User-agent: *
 
+Disallow: /calendar/
 Disallow: /fonts/
 Disallow: /img/
 Disallow: /js/
