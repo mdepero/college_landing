@@ -27,7 +27,7 @@ A <a href="https://en.wikipedia.org/wiki/Magic_square" target="_blank">magic squ
 <style>
 			td{
 				border: 1px solid black;
-				padding: 1px;
+				padding: 1px !important;
 				text-align:center;
 				vertical-align: middle;
 				font-size: .8em;
