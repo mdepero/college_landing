@@ -38,7 +38,7 @@ A <a href="https://en.wikipedia.org/wiki/Magic_square" target="_blank">magic squ
 			.square{
 				text-align: center;
 			}
-			.square-table{
+			.table-responsive{
 				overflow: visible !important;
 			}
 </style>
