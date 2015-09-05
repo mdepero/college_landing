@@ -28,18 +28,14 @@ A <a href="https://en.wikipedia.org/wiki/Magic_square" target="_blank">magic squ
 			td{
 				border: 1px solid black;
 				padding: 1px;
-				width: 10px;
-				height: 10px;
 				text-align:center;
 				vertical-align: middle;
-				background-color: white;
-				font-size: 8px;
+				font-size: .8em;
 			}
 			.sum{
 				background-color: #cfc;
 			}
 			.square{
-				background-color: #ccc;
 				text-align: center;
 			}
 </style>
