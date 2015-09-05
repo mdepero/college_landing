@@ -2,7 +2,7 @@
 layout:     post
 title:      "High School Web Projects"
 subtitle:   "Pre-college website projects I've taken on"
-date:       2015-03-02 12:00:00
+date:       2015-01-02 12:00:00
 author:     "Matt DePero"
 header-img: "img/post-bg-websites.jpg"
 ---
