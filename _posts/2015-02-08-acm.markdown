@@ -9,13 +9,13 @@ header-img: "img/post-bg-acm.jpg"
 
 <h2>What is ACM?</h2>
 
-<p>The real <a href="http://www.acm.org/" target="_BLANK">ACM</a> is a society for people in the computing field (as well as being very good at sending you promotional emails twice a day). At Miami, it is a organization for students with an interest in programming and computer science.</p>
+<p>The real <a href="http://www.acm.org/" target="_BLANK">ACM</a> is a society for people in the computing field. At Miami, it is a organization for students with an interest in programming and computer science.</p>
 
-<p>Fall of 2014 the club decided to have a programming competition aptly named the "Do Something Awesome" competition. Our team submitted this project which ended up winning the competition.</p>
+<p>Fall of 2014, the club decided to have a programming competition aptly named the "Do Something Awesome" competition. Our team submitted this project which ended up winning the competition.</p>
 
 <h2>The Project</h2>
 
-<p>At the core of the project was the ability to take 3D coordinates (x, y, and z) and convert them into two sets of 2d coordinates, one for each eye. By using <a href="https://www.google.com/get/cardboard/" target="_BLANK">Google Cardboard glasses</a> and a smartphone, the left half and right half of a phone screen could be viewed by the two eyes separately, thus creating a 3D image.</p>
+<p>The purpose of the project was to take 3D coordinates (x, y, and z) and convert them into two sets of 2D coordinates, one for each eye. By using <a href="https://www.google.com/get/cardboard/" target="_BLANK">Google Cardboard glasses</a> and a smartphone, the left half and right half of a phone screen could be viewed by the two eyes separately, thus creating a 3D image.</p>
 
 <h2>How It Works</h2>
 
