@@ -13,15 +13,15 @@ A <a href="https://en.wikipedia.org/wiki/Magic_square" target="_blank">magic squ
 </p>
 <h2>Magic Square Generator</h2>
 
-<p>
+<p class="square">
 	Size: <input type="text" id="size" size="2">
 		<button onclick="javascript:generate()">Generate</button>
 		<div id="error"></div>
 		<h2 id="sum"></h2>
 		<div id="status"></div>
+		<table id="square">
+		</table>
 </p>
-<table id="square">
-</table>
 
 
 <style>
@@ -38,12 +38,12 @@ A <a href="https://en.wikipedia.org/wiki/Magic_square" target="_blank">magic squ
 			.sum{
 				background-color: #cfc;
 			}
-			body{
+			.square{
 				background-color: #ccc;
 				text-align: center;
 			}
-		</style>
-		<script>
+</style>
+<script type="text/javascript">
 			
 			var tbl;
 			
@@ -151,4 +151,4 @@ A <a href="https://en.wikipedia.org/wiki/Magic_square" target="_blank">magic squ
 				
 				addSums( size );
 			}
-		</script>
+</script>
