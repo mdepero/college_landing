@@ -40,6 +40,7 @@ A <a href="https://en.wikipedia.org/wiki/Magic_square" target="_blank">magic squ
 			}
 			.table-responsive{
 				overflow: visible !important;
+				margin: auto;
 			}
 </style>
 <script type="text/javascript">
