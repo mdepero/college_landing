@@ -9,7 +9,7 @@ header-img: "img/post-bg-acm.jpg"
 
 <h2>What is ACM?</h2>
 
-<p>The real <a href="http://www.acm.org/" target="_BLANK">ACM</a> is a society for people in the computing field. At Miami, it is a organization for students with an interest in programming and computer science.</p>
+<p>The real <a href="http://www.acm.org/" target="_BLANK">ACM</a> is a society for people in the computing field. At Miami, it is an organization for students with an interest in programming and computer science.</p>
 
 <p>Fall of 2014, the club decided to have a programming competition aptly named the "Do Something Awesome" competition. Our team submitted this project which ended up winning the competition.</p>
 
