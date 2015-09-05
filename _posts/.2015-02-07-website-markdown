@@ -8,13 +8,13 @@ header-img: "img/post-bg-website.jpg"
 ---
 <h2>My Background in Web Development</h2>
 
-<p>I started making websites before I knew how to drive (about sophomore year of high school). In fact, I'm hosting the first website I ever made <!--<a href="/wcc/" target="_BLANK">right here on this site</a>--><del><ins>right here on this site</ins></del> (not yet working with new hosting) if you want to see how bad it was and where I got my beginning.</p>
+<p>I started making websites about my sophomore year of high school. <!--In fact, I'm hosting the first website I ever made <a href="/wcc/" target="_BLANK">right here on this site</a><del><ins>right here on this site</ins></del> (not yet working with new hosting) if you want to see how bad it was and where I got my beginning.</p>
 
 <p>I'll be making a post about all of my old websites later, but there are multiple major differences between those websites and this one.</p>
 
 <p>The biggest being that, until this one, all of my sites have been developed by hand. Started by creating a blank index.php or index.html document and working out. This was an incredible way to learn the grueling details of web development, but definitely not practical in the slightest for anything more than a couple of pages.</p>
 
-<p>I learned everything websites like <a href="http://w3schools.com" target="__BLANK">w3schools</a> had to offer, but was never exposed to the bigger picture. I was essentially memorizing my multiplication tables over and over again only to find out I'd never be in math class without a calculator ever again.</p>
+<p>-->I learned everything websites like <a href="http://w3schools.com" target="__BLANK">w3schools</a> had to offer, but was never exposed to the bigger picture and made all of my websites by hand coding HTML, JavaScript, and CSS. I was essentially memorizing my multiplication tables over and over again only to find out I'd never be in math class without a calculator ever again.</p>
 
 <p>Few would say getting a solid foundation before moving on to the advanced stuff isn't a good thing. Having a working knowledge of why something works is just as important as how. However, I'm definitely glad to be moving on.</p>
 
@@ -27,7 +27,7 @@ header-img: "img/post-bg-website.jpg"
 	<li>Make static parts like headers, footers, and navigation panels</li>
 	<li>Make templates that organize different types of pages with variables for everything</li>
 	<li>To make a page, simply say which template to use and write your dyanamic content</li>
-	<li>Let Jekyll take care of putting everything together and done</li>
+	<li>Let Jekyll take care of putting everything together</li>
 </ol>
 </p>
 
@@ -35,7 +35,7 @@ header-img: "img/post-bg-website.jpg"
 
 <h2>How It Works</h2>
 
-<p>The way I use Jekyll is through the terminal. Once installed, all I have to do is say "jekyll 'NAME_OF_SOURCE_CODE' 'NAME_OF_WEBSITE_FOLDER'" and that's it. It takes my source code in the source folder, compiles it, and returns a perfectly formatted website in the website folder, ready for hosting.</p>
+<p>The way I use Jekyll is through the terminal. Once installed, all I have to do is say "jekyll 'NAME_OF_SOURCE_CODE' 'NAME_OF_WEBSITE_FOLDER'" and it takes my source code in the source folder, compiles it, and returns a formatted website in the website folder, ready for hosting.</p>
 
 <p>The source code I downloaded for <a href="https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll" target="_BLANK">Clean Blog</a> came already set up with an example site pre-built. This is nice because it lets you get a sense of what everything means and then customize your site from there. The only thing you have to make sure you do is change your "baseurl" to say baseurl: "" in the default _config.yml file. (Unless your site is hosted within a folder of a bigger site, in which case your baseurl links to that folder)</p>
 
