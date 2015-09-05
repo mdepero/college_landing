@@ -19,7 +19,7 @@ A <a href="https://en.wikipedia.org/wiki/Magic_square" target="_blank">magic squ
 		<div id="error"></div>
 		<h2 id="sum"></h2>
 		<div id="status"></div>
-		<table id="square">
+		<table id="square" class="square-table">
 		</table>
 </p>
 
@@ -37,6 +37,9 @@ A <a href="https://en.wikipedia.org/wiki/Magic_square" target="_blank">magic squ
 			}
 			.square{
 				text-align: center;
+			}
+			.square-table{
+				overflow: visible !important;
 			}
 </style>
 <script type="text/javascript">
