@@ -6,6 +6,7 @@ date:       2015-02-07 12:00:00
 author:     "Matt DePero"
 header-img: "img/post-bg-website.jpg"
 ---
+
 <h2>My Background in Web Development</h2>
 
 <p>I started making websites about my sophomore year of high school. <!--In fact, I'm hosting the first website I ever made <a href="/wcc/" target="_BLANK">right here on this site</a><del><ins>right here on this site</ins></del> (not yet working with new hosting) if you want to see how bad it was and where I got my beginning.</p>

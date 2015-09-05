@@ -9,7 +9,7 @@ header-img: "img/post-bg-websites.jpg"
 
 <h2>My Introduction to Web Design</h2>
 
-<p>My first introduction to programming was sophemore year of high school when I took a web design class to fulfil my technical class requirement. I instantly became hooked and started teaching myself more and more about web development through various projects. The end result was learning through experience while only excelling my interest in computer science.
+<p>These websites were how I got my start in programming. Dating as far back as my sophomore year of high school, they aren't exactly the most modern of websites. They were all projects where I taught myself as I went which led to an incredible learning experience that would be impossible in any other enviornment.
 </p>
 
 <h1>My Websites</h1>
