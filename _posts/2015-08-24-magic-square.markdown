@@ -19,9 +19,9 @@ A <a href="https://en.wikipedia.org/wiki/Magic_square" target="_blank">magic squ
 		<div id="error"></div>
 		<h2 id="sum"></h2>
 		<div id="status"></div>
-		<table id="square" class="square-table">
-		</table>
 </p>
+<table id="square" class="square-table">
+</table>
 
 
 <style>
