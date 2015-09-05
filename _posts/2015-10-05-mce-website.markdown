@@ -9,7 +9,7 @@ header-img: "img/post-bg-mce.jpg"
 
 <h2>The Project</h2>
 <p>
-Miami University's Middle Childhood Education department has their faculty review students on many important dispositions to ensure their readiness to enter the education system. Previously, these reviews were done on a spreadsheet, making it almost impossible to properly analyze the data and make good use of it. This project created to allow for ease of data entry, increased expandability, and greater analytical capabilities.
+Miami University's Middle Childhood Education department has their faculty review students on many important dispositions to ensure their readiness to enter the education system. Previously, these reviews were done on a spreadsheet, making it almost impossible to properly analyze the data and make good use of it. This project was created to allow for ease of data entry, increased expandability, and greater analytical capabilities.
 </p>
 <h2>Demo</h2>
 <p>
