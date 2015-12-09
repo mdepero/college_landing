@@ -17,49 +17,38 @@ header-img: "img/projects-bg.jpg"
 
 </script>
 
-<div class="post-preview">
-    <a href="/2015/10/05/mce">
-        <h2 class="post-title">            MCE Dispositions Website
-        </h2>
-        <h3 class="post-subtitle">
-            A feedback tool for Miami's Middle Childhood Education Department
-        </h3>
-    </a>
-</div>
-<hr>
 
+{% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="/2015/08/24/magic-square">
-        <h2 class="post-title">            Magic Squares
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
         </h2>
+        {% if post.subtitle %}
         <h3 class="post-subtitle">
-            A magic square generator with JavaScript
+            {{ post.subtitle }}
         </h3>
+        {% endif %}
     </a>
+    <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
+{% endfor %}
 
-<div class="post-preview">
-    <a href="/2015/03/13/websockets">
-        <h2 class="post-title">            Websockets
-        </h2>
-        <h3 class="post-subtitle">
-            A demo with websockets
-        </h3>
-    </a>
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="/2015/02/08/acm">
-        <h2 class="post-title">            ACM Competition - Fall 2014
-        </h2>
-        <h3 class="post-subtitle">
-            A simple virtual reality engine
-        </h3>
-    </a>
-</div>
-<hr>
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
 
 
 <hr>
