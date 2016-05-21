@@ -7,14 +7,39 @@ author:     "Matt DePero"
 header-img: "img/post-bg-l4i.jpg"
 ---
 
-<h2>The Project</h2>
+<h2>Listen4Insight</h2>
 <p>
-Miami University's <a href="http://miamioh.edu/cec/about/centers-institutes/lockheed-martin/index.html" target="_blank">Lockheed Martin Leadership Institute</a> puts a big focus on being active and professional on social media to help spread the ideas and accomplishments of the institute and support a professional image online. This project is designed to easily view twitter activity in real time for a select group of users.
+	<a href="https://twitter.com/Listen4Insight" target="_BLANK">
+		<span class="fa-stack fa-lg">
+	        <i class="fa fa-circle fa-stack-2x"></i>
+	        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+	    </span>
+	</a>
+	<a href="https://www.facebook.com/listen4insight" target="_BLANK">
+		<span class="fa-stack fa-lg">
+	        <i class="fa fa-circle fa-stack-2x"></i>
+	        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+	    </span>
+	</a>
+	<a href="https://github.com/werleyst/listen4Insight" target="_BLANK">
+		<span class="fa-stack fa-lg">
+	        <i class="fa fa-circle fa-stack-2x"></i>
+	        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+	    </span>
+	</a>
 </p>
-<h2>Demo</h2>
 <p>
-Below is a live demo of the project. It includes two main parts: a front facing html page and a separate php backend. The php backend is not included in the <a href="https://github.com/mdepero/twitter" target="_blank">github repo</a> of the source code because it contains twitter api keys that I don't want to make public.
+The 2015-2016 academic year was designated "the year of creativity and innovation" at Miami University by its now former president David Hodge. The <a href="http://miamioh.edu/cec/about/centers-institutes/lockheed-martin/index.html" target="_blank">Lockheed Martin Leadership Institute</a> was given a full year project of taking this theme of creativity and innovation and creating a podcast around it. 
 </p>
-<p class="text-center">
-<a href="/twitter/" target="_blank">Twitter Activity Tracker</a>
+
+<p>
+As a member of the institute, I was tasked with creating the website for the project. My partner primarily worked on the front end of the site, creating the HTML and CSS to format the everything to fit the design created by another team on the project. My role was to work with the back end, creating a framework to host and display podcasts along with meta data associated with each.
+</p>
+
+<p>
+The site is branched off of an open source project called <a href="http://www.podcastgenerator.net/" target="_BLANK">Podcast Generator</a>. The project was expanded upon immensely, adding new features such as a transcript, a "tag line", and a search feature. The open source project was used to create a minimum viable product as rapidly as possible.
+</p>
+
+<p>
+<a href="http://listen4insight.com" target="_BLANK" class="btn btn-parimary">View the Site</a>
 </p>
