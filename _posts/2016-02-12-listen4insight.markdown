@@ -13,8 +13,7 @@ header-img: "img/post-bg-l4i.jpg"
 	<a href="https://www.facebook.com/listen4insight" target="_BLANK"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></a>
 	<a href="https://github.com/werleyst/listen4Insight" target="_BLANK"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-github fa-stack-1x fa-inverse"></i></span></a>
 </p>
-<p><h2>
-<a href="http://listen4insight.com" target="_BLANK" class="btn btn-parimary">View the Site</a></h2>
+<p><a href="http://listen4insight.com" target="_BLANK" class="btn btn-parimary">View the Site</a>
 </p>
 <p>
 The 2015-2016 academic year was designated "the year of creativity and innovation" at Miami University by its now former president David Hodge. The <a href="http://miamioh.edu/cec/about/centers-institutes/lockheed-martin/index.html" target="_blank">Lockheed Martin Leadership Institute</a> was given a full year project of taking this theme of creativity and innovation and creating a podcast around it. 
