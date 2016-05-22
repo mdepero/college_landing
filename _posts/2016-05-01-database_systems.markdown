@@ -17,10 +17,10 @@ In CSE385 at Miami University, our team of five's semester project was to create
 </p>
 
 <p>
-	<img src="{{ site.baseurl }}/img/post-databases-ER_Diagram.png" alt="ER Diagram">
-	<span class="caption text-muted">The ER diagram we created for our project</span>
+	<a href="http://mattdepero.com/awesomeunited" target="_BLANK">View the Project</a>
 </p>
 
 <p>
-	<a href="http://mattdepero.com/awesomeunited" target="_BLANK">View the Project</a>
+	<img src="{{ site.baseurl }}/img/post-databases-ER_Diagram.png" alt="ER Diagram">
+	<span class="caption text-muted">The ER diagram we created for our project</span>
 </p>
