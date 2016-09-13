@@ -17,5 +17,14 @@ I joined the Tau Delta chapter of Theta Tau at Miami University the spring semes
 </p>
 
 <p>
+Below is the relational database schema used on the site, showing a bit of the complexity of the project.
+</p>
+
+<p>
+	<img src="{{ site.baseurl }}/img/thetatau_schema.png" alt="Website Database Schema">
+	<span class="caption text-muted">Relational Database Schema for <a href="http://thetataumiami.com" target="_BLANK">thetataumiami.com</a></span>
+</p>
+
+<p>
 	<a href="http://thetataumiami.com" target="_BLANK">View the Project</a>
 </p>
