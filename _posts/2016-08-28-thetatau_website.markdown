@@ -21,7 +21,7 @@ Below is the relational database schema used on the site, showing a bit of the c
 </p>
 
 <p>
-	<img src="{{ site.baseurl }}/img/thetatau_schema.png" alt="Website Database Schema">
+	<a href="{{ site.baseurl }}/img/thetatau_schema.png" target="_BLANK"><img src="{{ site.baseurl }}/img/thetatau_schema.png" alt="Website Database Schema"></a>
 	<span class="caption text-muted">Relational Database Schema for <a href="http://thetataumiami.com" target="_BLANK">thetataumiami.com</a></span>
 </p>
 
