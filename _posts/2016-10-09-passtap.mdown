@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "PassTap"
+subtitle:   "A password manager, but without the passwords."
+date:       2016-10-09 12:00:00
+author:     "Matt DePero"
+header-img: "img/passtap.jpg"
+---
+
+<h2><a href="https://passtap.com" target="_BLANK">PassTap</a></h2>
+<p>
+
+PassTap was a project created by a small team from Miami University at the MHacks 8 Hackathon in Detroit Michigan. The project was completed from start to finish over the weekend of October 7-9th, 2016.
+
+</p>
+
+<p>
+The full project site detailing the project and it's features as well as how to use it can be found at <a href="https://passtap.com" target="_BLANK">https://passtap.com</a>
+</p>
