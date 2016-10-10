@@ -15,5 +15,5 @@ PassTap was a project created by a small team from Miami University at the MHack
 </p>
 
 <p>
-The full project site detailing the project and it's features as well as how to use it can be found at <a href="https://passtap.com" target="_BLANK">https://passtap.com</a>
+The full project site detailing the application can be found at <a href="https://passtap.com" target="_BLANK">https://passtap.com</a>
 </p>
