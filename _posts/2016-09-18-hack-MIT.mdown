@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "HackMIT Hackathon Project"
+subtitle:   "A conversation tone tracker using IBM Watson"
+date:       2016-09-18 12:00:00
+author:     "Matt DePero"
+header-img: "img/hackmit.jpg"
+---
+
+<h2>Tone Track</h2>
+<p>
+<a href="https://github.com/ColeHoff7/hackMIT/" target="_BLANK"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-github fa-stack-1x fa-inverse"></i></span></a>
+</p>
+
+<p>
+<a href="https://hackmit.org/" target="_BLANK">HackMIT</a> is the largest national hackathon hosted by MIT every year. It hosts over 1000 undergraduate students from around the world with a wide range of companies and speakers.
+</p>
+
+<p>
+Our project utilizes the <a href="https://www.ibm.com/watson/developercloud/" target="_BLANK">Watson Developer Cloud API</a> to track a conversation and return predicted tone and emotion coefficients based on word choice and syntax in real time. This is done utilzing a javascript front end and a python based backend.
+</p>
+
+<h3><a href="https://tonetrack.me" target="_BLANK">View the Project Demo</a></h3>
+<p>Note that results can take a few seconds to start being returned once you start your conversation</p>
