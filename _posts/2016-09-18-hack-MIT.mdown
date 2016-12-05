@@ -20,5 +20,5 @@ header-img: "img/post-bg-hackmit.png"
 Our project utilizes the <a href="https://www.ibm.com/watson/developercloud/" target="_BLANK">Watson Developer Cloud API</a> to track a conversation and return predicted tone and emotion coefficients based on word choice and syntax in real time. This is done utilzing a javascript front end and a python based backend.
 </p>
 
-<h3><a href="https://tonetrack.me" target="_BLANK">View the Project Demo</a></h3>
+<h3><a href="https://tonetrack.me" target="_BLANK" style="text-decoration:underline;">View the Project Demo</a></h3>
 <p>Note that results can take a few seconds to start being returned once you start your conversation</p>
