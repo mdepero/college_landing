@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "Risk.io"
+subtitle:   "A realworld MMO geolocation game"
+date:       2017-05-02 12:00:00
+author:     "Matt DePero"
+header-img: "img/post-bg-riskio.jpg"
+---
+
+<h2><a href="https://devpost.com/software/risk-io" target="_BLANK">Risk.io</a></h2>
+<p>
+
+While not fully developed, this project utilizes Google's map API's to create an MMO style game where players fight to win regions based on where they are located. Players can move between regions to try and keep as many regions as they can for their team.
+
+</p>
+
+<p>
+
+This project was developed for a HackCU, a hackathon at the University of Colorado Boulder.
+
+</p>
+
+<p>
+The full project site detailing the application can be found at <a href="https://devpost.com/software/risk-io" target="_BLANK">HackCU 3's devpost</a>
+</p>
