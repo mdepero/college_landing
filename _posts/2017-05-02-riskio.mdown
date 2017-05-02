@@ -15,7 +15,7 @@ While not fully developed, this project utilizes Google's map API's to create an
 </p>
 
 <p>
-The game included server development, and android app, and an incomplete iOS app. The android app is available for download <a href="http://mattdepero.com/hackcu/app-debug.apk" target="_BLANK">Here</a>
+The game included server backend development, an android app, and an incomplete iOS app. The android app is available for download <a href="http://mattdepero.com/hackcu/app-debug.apk" target="_BLANK">Here</a>.
 </p>
 
 <p>
