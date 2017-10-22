@@ -1,0 +1,40 @@
+---
+layout:     post
+title:      "Autonomous Drone Dev Environment"
+subtitle:   "Senior Capstone Project"
+date:       2017-05-15 12:00:00
+author:     "Matt DePero"
+header-img: "img/post-bg-drones.jpg"
+---
+
+
+<h2><a href="https://www.youtube.com/watch?v=fGKR1G7orKA" target="_BLANK">View Flight Demo Video</a></h2>
+
+<h2><a href="https://docs.google.com/document/d/1oVEO_3HxiXwagmXyrMhh8KIorxdNxHejzwBQ876_fpM/edit?usp=sharing" target="_BLANK">View Project Documentation</a></h2>
+
+<h2><a href="https://drive.google.com/file/d/0B4VPGLrkaso2SUFSYnZLZTRPbEk/view?usp=sharing" target="_BLANK">View Project Poster</a></h2>
+
+
+<p>
+
+For our senior capstone project, our team of four was tasked with creating an "autonomous drone" with very little additional detail or direction. The project had been handed down from three other teams at Miami, none of whom had successfully managed to even get a drone off the ground, much less flying with any level of intelligence.
+
+</p>
+
+<p>
+
+After a while, our team too found ourselves struggling to make the previous generation's custom built hardware take off, or do anything for that matter. We eventually made the risky decision to abandon the previous work and instead start from scratch with a new approach: utilizing a framework called Robot Operation System, or ROS for short.
+
+</p>
+
+<p>
+
+ROS allowed us to abstract away most of the low level details that made the original project nearly impossible. By taking advantage of the open source community's work, we were able to develop what we dubbed an "Autonomous Drone Development Environment", and focused on creating work that could be expanded upon and abstracted rather than a complicated mess that could only be understood by the orignal developers.
+
+</p>
+
+<p>
+
+The project has already been continued by the next senior capstone team, except this time they were given a project that, using our detailed documentation linked above, could take off after only a day's worth of work, not an entire semester. Our hope is that future teams continue to build on the foundation we left behind.
+
+</p>
