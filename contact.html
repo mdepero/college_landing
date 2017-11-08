@@ -11,11 +11,8 @@ header-img: "img/contact-bg.jpg"
 <p>Feel free to use the contact form below to send me a message.</p>
 
 
-<!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
-<!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
-<!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-<form action="https://getsimpleform.com/messages?form_api_token=a2e759816ed1f0f2162b3780ccea7f67" method="POST" novalidate>
-    <input type='hidden' name='redirect_to' value='http://mattdepero.com/thank-you/' />
+<form action="//formspree.io/deperomm@miamioh.edu" method="POST" novalidate>
+    <input type='hidden' name='_next' value='http://mattdepero.com/thank-you/' />
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Name</label>
@@ -26,7 +23,7 @@ header-img: "img/contact-bg.jpg"
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Email Address</label>
-            <input type="email" class="form-control" placeholder="Email Address" id="email" name="email" required data-validation-required-message="Please enter your email address.">
+            <input type="email" class="form-control" placeholder="Email Address" id="email" name="_replyto" required data-validation-required-message="Please enter your email address.">
             <p class="help-block text-danger"></p>
         </div>
     </div>
@@ -45,7 +42,7 @@ header-img: "img/contact-bg.jpg"
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Subject</label>
-            <input type="text" class="form-control" placeholder="Subject" id="subject" name="subject" required data-validation-required-message="Please enter a subject.">
+            <input type="text" class="form-control" placeholder="Subject" id="subject" name="_subject" required data-validation-required-message="Please enter a subject.">
             <p class="help-block text-danger"></p>
         </div>
     </div>
