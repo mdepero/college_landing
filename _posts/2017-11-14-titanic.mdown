@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "Titanic: Machine Learning from Disaster"
+subtitle:   "Using data to predict survivors on the Titanic in TensorFlow"
+date:       2017-11-14 12:00:00
+author:     "Matt DePero"
+header-img: "img/post-bg-titanic.jpg"
+---
+
+<p>
+	<a href="http://mattdepero.com/titanic" target="_BLANK">View the final report with output</a>
+</p>
+
+<p>
+	<a href="http://mattdepero.com/titanic/Final%20Report.ipynb" target="_BLANK">Download Jupyter Notebook file</a>
+</p>
+
+<p>
+The original Kaggle challenge can be found at <a href="https://www.kaggle.com/c/titanic" target="_BLANK">kaggle.com/c/titanic</a>.
+</p>
+
+<p>
+
+Our project team was tasked with the goal of predicting whether or not a group of passengers survived the titanic using survival data of other passengers. This data, as with most, was not perfect and thus needed to be cleaned and processed to extract relevant information and remove irrelevant. Once the data was processed, we pumped it into a very simple neural network implemented in TensorFlow, using the accuracy of predictions on training data as the cost function to be minimized. Our results gave us roughly 80% accuracy at being able to predict survival on passengers for which we were not originally given whether they survived or not.
+
+</p>
