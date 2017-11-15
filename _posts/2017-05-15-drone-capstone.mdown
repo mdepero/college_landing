@@ -7,11 +7,11 @@ author:     "Matt DePero"
 header-img: "img/post-bg-drones.jpg"
 ---
 
-<h2><a href="https://www.youtube.com/watch?v=fGKR1G7orKA" target="_BLANK">View Flight Demo Video</a></h2>
+<p><a href="https://www.youtube.com/watch?v=fGKR1G7orKA" target="_BLANK">View Flight Demo Video</a></p>
 
-<h2><a href="https://docs.google.com/document/d/1oVEO_3HxiXwagmXyrMhh8KIorxdNxHejzwBQ876_fpM/edit?usp=sharing" target="_BLANK">View Project Documentation</a></h2>
+<p><a href="https://docs.google.com/document/d/1oVEO_3HxiXwagmXyrMhh8KIorxdNxHejzwBQ876_fpM/edit?usp=sharing" target="_BLANK">View Project Documentation</a></p>
 
-<h2><a href="https://drive.google.com/file/d/0B4VPGLrkaso2SUFSYnZLZTRPbEk/view?usp=sharing" target="_BLANK">View Project Poster</a></h2>
+<p><a href="https://drive.google.com/file/d/0B4VPGLrkaso2SUFSYnZLZTRPbEk/view?usp=sharing" target="_BLANK">View Project Poster</a></p>
 
 
 <p>

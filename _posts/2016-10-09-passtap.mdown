@@ -7,7 +7,7 @@ author:     "Matt DePero"
 header-img: "img/passtap.jpg"
 ---
 
-<h2><a href="https://passtap.com" target="_BLANK">PassTap</a></h2>
+<p><a href="https://passtap.com" target="_BLANK">PassTap</a></p>
 <p>
 
 PassTap was a project created by a small team from Miami University at the MHacks 8 Hackathon in Detroit Michigan. The project was completed from start to finish over the weekend of October 7-9th, 2016.

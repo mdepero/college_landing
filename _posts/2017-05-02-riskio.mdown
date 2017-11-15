@@ -7,7 +7,7 @@ author:     "Matt DePero"
 header-img: "img/post-bg-riskio.jpg"
 ---
 
-<h2><a href="https://devpost.com/software/risk-io" target="_BLANK">Risk.io</a></h2>
+<p><a href="https://devpost.com/software/risk-io" target="_BLANK">Risk.io</a></p>
 <p>
 
 While not fully developed, this project utilizes Google's map API's to create an MMO style game where players fight to win regions based on where they are located. Players can move between regions to try and keep as many regions as they can for their team.
