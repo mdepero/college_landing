@@ -17,5 +17,5 @@ CSE451 at Miami University is a class about web services and service oriented ar
 </p>
 
 <p>
-	<a href="http://mattdepero.com/cse451" target="_BLANK">View the Project</a>
+	<a href="http://mdepero.github.io/cse451" target="_BLANK">View the Project</a>
 </p>

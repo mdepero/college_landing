@@ -8,11 +8,11 @@ header-img: "img/post-bg-titanic.jpg"
 ---
 
 <p>
-	<a href="http://mattdepero.com/titanic" target="_BLANK">View the final report with output</a>
+	<a href="http://mdepero.github.io/titanic" target="_BLANK">View the final report with output</a>
 </p>
 
 <p>
-	<a href="http://mattdepero.com/titanic/Final%20Report.ipynb" target="_BLANK">Download Jupyter Notebook file</a>
+	<a href="http://mdepero.github.io/titanic/Final%20Report.ipynb" target="_BLANK">Download Jupyter Notebook file</a>
 </p>
 
 <p>

@@ -17,7 +17,7 @@ In CSE385 at Miami University, our team of five's semester project was to create
 </p>
 
 <p>
-	<a href="http://mattdepero.com/awesomeunited" target="_BLANK">View the Project</a>
+	<a href="http://mdepero.github.io/awesomeunited" target="_BLANK">View the Project</a>
 </p>
 
 <p>
