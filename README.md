@@ -1,8 +1,8 @@
-#mattdepero.com
+# mattdepero.com
 
-A website for hosting my projects and various content
+A website for hosting my projects and various content during college at Miami University.
 
-View live version at [mattdepero.com](http://mattdepero.com) hosted by GitHub Pages using this source code.
+View live version at [mdepero.github.io/college_landing](https://mdepero.github.io/college_landing) hosted by GitHub Pages using this source code.
 
 ## About Site
 
